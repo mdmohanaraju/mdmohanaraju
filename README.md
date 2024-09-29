@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 Hi, I’m Mohanraj Devadoss. I’m a tester by profession and an automation developer by passion, with over a decade of experience in both fields.
-
-I live in Bangalore with my wonderful family. I’m a proud husband and father of two daughters. We enjoy a happy, peaceful life together.
-
 I’m a night owl; I find that I’m most productive after 9 PM. My happiest moments are spent with my family and when I’m creating new things.
-
 I have a deep love for automation, and I see my blog as an extension of that passion. I aim to make my articles easy to follow and inspiring for others who want to learn.
 
 <!--
